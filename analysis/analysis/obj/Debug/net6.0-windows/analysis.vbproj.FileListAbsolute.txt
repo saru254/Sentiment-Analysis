@@ -1,0 +1,17 @@
+D:\analysis\analysis\bin\Debug\net6.0-windows\analysis.exe
+D:\analysis\analysis\bin\Debug\net6.0-windows\analysis.deps.json
+D:\analysis\analysis\bin\Debug\net6.0-windows\analysis.runtimeconfig.json
+D:\analysis\analysis\bin\Debug\net6.0-windows\analysis.dll
+D:\analysis\analysis\bin\Debug\net6.0-windows\analysis.pdb
+D:\analysis\analysis\obj\Debug\net6.0-windows\analysis.vbproj.AssemblyReference.cache
+D:\analysis\analysis\obj\Debug\net6.0-windows\analysis.Form1.resources
+D:\analysis\analysis\obj\Debug\net6.0-windows\analysis.vbproj.GenerateResource.cache
+D:\analysis\analysis\obj\Debug\net6.0-windows\analysis.GeneratedMSBuildEditorConfig.editorconfig
+D:\analysis\analysis\obj\Debug\net6.0-windows\analysis.AssemblyInfoInputs.cache
+D:\analysis\analysis\obj\Debug\net6.0-windows\analysis.AssemblyInfo.vb
+D:\analysis\analysis\obj\Debug\net6.0-windows\analysis.vbproj.CoreCompileInputs.cache
+D:\analysis\analysis\obj\Debug\net6.0-windows\analysis.dll
+D:\analysis\analysis\obj\Debug\net6.0-windows\refint\analysis.dll
+D:\analysis\analysis\obj\Debug\net6.0-windows\analysis.pdb
+D:\analysis\analysis\obj\Debug\net6.0-windows\analysis.genruntimeconfig.cache
+D:\analysis\analysis\obj\Debug\net6.0-windows\ref\analysis.dll
